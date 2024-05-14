@@ -6,7 +6,6 @@ const subtractionButton = document.querySelector('#subtraction');
 const multiplicateButton = document.querySelector('#multiplicate');
 const divideButton = document.querySelector('#divide');
 
-
 function addNumbers() {
     const firstNumber = parseFloat(firstNumberInput.value)
     const secondNumber = parseFloat(secondNumberInput.value)

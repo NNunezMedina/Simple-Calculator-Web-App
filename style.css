@@ -16,3 +16,9 @@ h1 {
     width: 30%;
     justify-content: center;
 }
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
